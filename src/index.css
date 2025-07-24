@@ -71,7 +71,7 @@ header p {
 }
 
 #player button {
-  cursor: move;
+  cursor: pointer;
   background-color: #54a399;
   border: 1px solid #54a399;
   padding: 0.4rem 1rem;
